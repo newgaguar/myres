@@ -3,6 +3,11 @@
 #include<unistd.h>
 
 int main(){
-	printf("第一次提交到云仓库");
-	return 0;
+	printf("remove");
+	
+	printf("第2次提交到云仓库");
+
+	printf("第2次提交到云仓库");
+	printf("第2次提交到云仓库");
+	
 	}
